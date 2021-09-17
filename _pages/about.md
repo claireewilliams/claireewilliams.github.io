@@ -14,4 +14,9 @@ My current work focuses on tropical lizards and their gut microbiomes, using tra
 
 ======
 
+I've used all sorts of tools to explore these topics - both culture-dependent methods, and culture-independent methods. I'm also super excited about using novel computational methods to understand microbiome changes on a mechanistic level. 
+
+
+======
+
 If you're interested in reading more about my current work - and past work - please feel free to browse my research and publications section. 
