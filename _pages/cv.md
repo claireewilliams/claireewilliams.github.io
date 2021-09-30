@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* A.A.S in Liberal Arts, Holyoke Community College, 2015
+* B.S. in Biochemistry, Northeastern University, 2020
+* Study abroad (2 semesters) at University College Dublin, Ireland
+* M.Sc. in Biodiversity and Conservation, Trinity College Dublin, 2021
+* Ph.D in Ecology, Evolution, and Conservation Biology, University of Nevada, Reno, in progress
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Conversational Spanish (B1)
+* Proficiency in several coding languages
+  * R 
+  * Python
+  * Java
+  * Bash 
+* Bioinformatics (16S amplicon sequencing pipelines, RNA seq pipelines, reproducible research workflows)
+* Molecular laboratory skills (DNA extraction, library preparation, PCR, qPCR)
 
 Publications
 ======
@@ -48,12 +40,40 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+ 
+Grants and awards
+======
+* NSF GRFP, Honorable Mention, 2021
+* Graduate Dean’s Scholarship, University of Nevada, Reno, Fall 2021($10,000)
+* Trinity College Dublin, E3 Excellence Postgraduate Scholarship in Engineering, Environment and Emerging Technologies, Summer 2020 ($6,000)
+* Smithsonian Tropical Research Institute, Ernst Mayr Fellowship, Summer 2020 ($3,000) - Deferred due to COVID-19 travel restrictions 
+* Charlotte Mangum Conference Support Scholarship, Fall 2019 
+* Bridge-Builder Award, Co-Awardee,  Fall 2019 ($1,000)
+* Presidential Global Scholarship, Spring 2019 ($2,000)
+* Goldwater Scholarship, Spring 2019 ($7,500)
+* Advanced Undergraduate Research and Creative Endeavors Award, Fall 2018 ($3,000)
+* ASM Undergraduate Research Fellowship, Spring/Summer 2018 ($7,000)
+* Harvard REU fellowship, Summer 2018 
+* Alpha Fund Prototyping Grant, Spring 2018 ($5,000)
+* NSF I-Corps Venture Grant, Fall 2018 ($2,000)
+* Advanced Undergraduate Research and Creative Endeavors Award, Fall 2017 ($2,182). 
+* Boston Bacterial Meeting Attendance Scholarship, Summer 2017
+* Matz Biotechnology Co-op Scholarship, Spring 2017
+* Undergraduate Research Conference Travel Award, Spring 2017
+* Early Undergraduate Research and Creative Endeavors Award, Fall 2016 ($729)
+
+  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+
+Volunteer service and outreach
 ======
-* Currently signed in to 43 different slack teams
+* A.A.S in Liberal Arts, Holyoke Community College, 2015
+* B.S. in Biochemistry, Northeastern University, 2020
+* M.Sc. in Biodiversity and Conservation, Trinity College Dublin, 2021
+* Ph.D in Ecology, Evolution, and Conservation Biology, University of Nevada, Reno, in progress
+    

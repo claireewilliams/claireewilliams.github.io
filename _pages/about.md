@@ -13,7 +13,7 @@ Hi there! My name is Claire, and I'm a PhD student at the University of Nevada, 
 ======
 
 
-My current work focuses on tropical lizards and their gut microbiomes, using transplant experiments to understand how the gut microbiome adapts to thermal stress. This has broad implications, especially in a world experiencing climate change. We know that the microbiome plays important roles in host health and disease, including through its effect on the immune system, metabolism, and even host neurology. I'm interested in understanding how the microbiome might buffer (or perhaps exacerbate) the effects of climate change and other environmental stressors, and what implications this has for the host in the short - and long - term. 
+My current work focuses on tropical ectotherms, using transplant experiments to understand how the gut microbiome adapts to thermal stress. This has broad implications, especially in a world experiencing climate change. We know that the microbiome plays important roles in host health and disease, including through its effect on the immune system, metabolism, and even host neurology. I'm interested in understanding how the microbiome might buffer (or perhaps exacerbate) the effects of climate change and other environmental stressors, and what implications this has for the host in the short - and long - term. 
 
 ======
 
@@ -22,4 +22,4 @@ I've used all sorts of tools to explore these topics - both culture-dependent me
 
 ======
 
-If you're interested in reading more about my current work - and past work - please feel free to browse my research and publications section. 
+If you're interested in reading more about my current work - and past work - please feel free to browse my research and publications section. This website is under construction, so reach out if you have any questions. 
