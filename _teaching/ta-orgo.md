@@ -1,0 +1,13 @@
+---
+title: "Teaching Assistantship, Organic Chemistry, Northeastern University"
+collection: teaching
+type: "TA for undergraduate organic chemistry"
+permalink: /teaching/TA-orgo
+venue: "Northeastern University"
+date: 2018
+location: "Boston, United States"
+---
+
+
+* Tutored students in Organic Chemistry in conjunction with the peer tutoring program
+* Graded open-response organic chemistry exams 
