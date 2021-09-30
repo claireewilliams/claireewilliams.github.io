@@ -5,6 +5,7 @@ type: "TA for undergraduate organic chemistry"
 permalink: /teaching/TA-orgo
 venue: "Northeastern University"
 location: "Boston, United States"
+date: 2018-1-08
 ---
 
 
