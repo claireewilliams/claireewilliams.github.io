@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistantship, Organic Chemistry, Northeastern University"
+title: "Teaching Assistantship, Organic Chemistry"
 collection: teaching
 type: "TA for undergraduate organic chemistry"
 permalink: /teaching/TA-orgo

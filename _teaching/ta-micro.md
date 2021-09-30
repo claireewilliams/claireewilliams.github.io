@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistantship for undergraduate General Microbiology"
+title: "Teaching assistantship, General Microbiology"
 collection: teaching
 type: "TA undergraduate microbiology"
 permalink: /teaching/ta-microbiology
