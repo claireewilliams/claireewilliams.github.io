@@ -4,7 +4,6 @@ collection: teaching
 type: "TA undergraduate microbiology"
 permalink: /teaching/ta-microbiology
 venue: "University of Nevada, Reno"
-date: 2021
 location: "Reno, United States"
 ---
 
