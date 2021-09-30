@@ -13,7 +13,7 @@ Education
 ======
 * A.A.S in Liberal Arts, Holyoke Community College, 2015
 * B.S. in Biochemistry, Northeastern University, 2020
-* Study abroad (2 semesters) at University College Dublin, Ireland
+	* Study abroad (2 semesters) at University College Dublin, Ireland
 * M.Sc. in Biodiversity and Conservation, Trinity College Dublin, 2021
 * Ph.D in Ecology, Evolution, and Conservation Biology, University of Nevada, Reno, in progress
   
@@ -72,8 +72,10 @@ Teaching
 
 Volunteer service and outreach
 ======
-* A.A.S in Liberal Arts, Holyoke Community College, 2015
-* B.S. in Biochemistry, Northeastern University, 2020
-* M.Sc. in Biodiversity and Conservation, Trinity College Dublin, 2021
-* Ph.D in Ecology, Evolution, and Conservation Biology, University of Nevada, Reno, in progress
-    
+* Researcher, Ask a Scientist, Federation of American Scientists, Governance Lab (May 2020 - Present)
+* Tutor, Tutors Against COVID (Aug 2020 - Sept 2021)
+* Curriculum Developer, Outreach 360 (Sept 2020)
+* Volunteer, STEMforBLM activism group (June 2020 - Present)
+* Program developer and lead mentor, Think Like a Scientist! (October 2019 - October 2020)
+* Scholarship Chair, Sigma Xi Scientific Research Honor Society (Sep 2019 - May 2020)
+* Science Mentor, Science Club for Girls (June 2017 - December 2017)
