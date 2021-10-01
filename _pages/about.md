@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! My name is Claire, and I'm a PhD student at the University of Nevada, Reno. I'm passionate about all things microbiology, but especially how gut microbiomes adapt to novel environments and environmental stressors. 
 
-![](images/lotsadishes.png)
+![](images/lotsaplates2.png)
 ======
 
 
@@ -22,7 +22,7 @@ My current work focuses on tropical ectotherms, using transplant experiments to 
 
 I've used many different tools to explore these topics - both culture-dependent methods, and culture-independent methods. I'm also super excited about using novel computational methods to understand microbiome changes on a mechanistic level. 
 
-![](images/widepetri.png)
+![](images/widerpetri.png)
 ======
 
 If you're interested in reading more about my current work - and past work - please feel free to browse my research and publications section. This website is under construction, so reach out if you have any questions. 
