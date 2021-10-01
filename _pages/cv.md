@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* A.A.S in Liberal Arts, Holyoke Community College, 2015
+* A.A. in Liberal Arts and Sciences, Holyoke Community College, 2015
 * B.S. in Biochemistry, Northeastern University, 2020
 	* Study abroad (2 semesters) at University College Dublin, Ireland
 * M.Sc. in Biodiversity and Conservation, Trinity College Dublin, 2021
