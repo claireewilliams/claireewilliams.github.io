@@ -1,6 +1,5 @@
 ---
-title: "Using Culture-Independent and Culture-
-Dependent Methods to Evaluate Pesticide Impacts on the Honey Bee Microbiome(poster)
+title: "Using Culture-Independent and Culture-Dependent Methods to Evaluate Pesticide Impacts on the Honey Bee Microbiome(poster)"
 collection: talks
 type: "Poster"
 permalink: /talks/nugh-talk-1
