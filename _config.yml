@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Claire E. Williams"
   avatar           : "clairenew.jpg"
-  bio              : "Hi! I'm Claire, a PhD Student at the University of Nevada, Reno. Please feel free to connect with me or get in contact with me at the links below!"
+  bio              : "Hi! I'm Claire, a PhD Student at the University of Nevada, Reno. Please feel free to connect with me at the links below!"
   location         : "Reno, NV"
   employer         :
   pubmed           :
@@ -236,14 +236,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
