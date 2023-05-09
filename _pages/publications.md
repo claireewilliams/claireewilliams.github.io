@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Published and forthcoming peer-reviewed publications"
+title: "Peer-reviewed publications"
 permalink: /publications/
 author_profile: true
 ---
