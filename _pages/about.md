@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Claire, and I'm a PhD student at the University of Nevada, Reno. I'm passionate about all things microbiology, but especially how gut microbiomes adapt to novel environments and environmental stressors. 
+Hi there! My name is Claire, and I'm a PhD candidate at the University of Nevada, Reno. Broadly, my research is focused on how gut microbiomes respond to novel environments and environmental stressors and how this affects their hosts. 
 
 ![](images/lotsaplates2.png)
 ======
 
 
-My current work focuses on tropical ectotherms, using transplant experiments to understand how the gut microbiome adapts to thermal stress. This has broad implications, especially in a world experiencing climate change. We know that the microbiome plays important roles in host health and disease, including through its effect on the immune system, metabolism, and even host neurology. I'm interested in understanding how the microbiome might buffer (or perhaps exacerbate) the effects of climate change and other environmental stressors, and what implications this has for the host in the short - and long - term. 
+My current work focuses on tropical ectotherms, using an island transplant experiment to understand how the gut microbiome responds to thermal stress. This has broad implications, especially in a world experiencing climate change. We know that the microbiome plays important roles in host health and disease, including through its effect on the immune system, metabolism, and even behavior. I'm interested in understanding how the microbiome might buffer (or perhaps exacerbate) the effects of climate change and other environmental stressors, and what implications this has for the host in the short - and long - term. 
 
 
 ![](images/lizzie.png)
 ======
 
-I've used many different tools to explore these topics - both culture-dependent methods, and culture-independent methods. I'm also super excited about using novel computational methods to understand microbiome changes on a mechanistic level. 
+I've used many different tools to explore these topics - both culture-dependent methods, and culture-independent methods. 
 
 ![](images/widerpetri.png)
 ======
